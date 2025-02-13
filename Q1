@@ -1,4 +1,0 @@
-What Git Stash Does and When It Is Useful?
-
-Git Stash is useful when you are working on a feature or a task and realize that you need to switch to another branch (e.g., to fix a bug or pull in updates). You might have uncommitted changes that you don’t want to lose but are not ready to commit.
-Stashing allows you to save these uncommitted changes temporarily, clean up your working directory, and switch branches without committing your work.
